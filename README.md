@@ -33,8 +33,8 @@ It provides users with:
 - **Once the project is created, navigate to its directory using the cd command:**
 
 ```bash
-git clone https://github.com/your-username/subscription-billing-backend.git
-cd subscription-billing-frontend
+git clone https://github.com/btechspects/subscription-frontend.git
+cd subscription-frontend
 ```
 
 - **Install dependencies**
