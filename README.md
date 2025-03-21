@@ -1,10 +1,11 @@
 # Subscription Billing System - Frontend (Vue 3)
 
 This is the Vue 3 Frontend of the Subscription Billing System that connects to the Laravel backend REST API.
-It provides users with: ✅ Registration & Login
-✅ Subscription Plan Management
-✅ Invoice / Payment History Viewing & Deletion
-✅ Token-based API communication
+It provides users with: 
+- Registration & Login
+- Subscription Plan Management
+- Invoice / Payment History Viewing & Deletion
+- Token-based API communication
 
 ## Features
 
